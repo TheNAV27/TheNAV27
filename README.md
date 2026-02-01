@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 About me<br><br>Student of Maastricht University, majoring Computer Science.<br>A sport and tech enthusiastic, combining these two fields together for learning purposes.<br><br>
 
 
